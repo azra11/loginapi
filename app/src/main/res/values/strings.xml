@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="login" />
+    <string name="login_status_preference" />
+</resources>
